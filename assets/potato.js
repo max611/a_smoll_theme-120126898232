@@ -1,1 +1,1 @@
-potato.js
+console.log('potato');
