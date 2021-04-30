@@ -1,1 +1,1 @@
-console.log('smoll test');
+console.log('core test');
