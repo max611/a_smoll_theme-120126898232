@@ -1,2 +1,1 @@
-console.log('core test');
-pls work
+console.log('smoll test')
