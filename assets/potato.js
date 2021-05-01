@@ -1,1 +1,1 @@
-potato
+console.log('potato');
