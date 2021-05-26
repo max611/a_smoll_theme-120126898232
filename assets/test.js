@@ -1,1 +1,1 @@
-console.log('smoll test');
+TDD is good
