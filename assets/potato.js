@@ -1,2 +1,1 @@
-console.log('potato');
-console.log('potato');
+i love potatoes and logs
