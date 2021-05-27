@@ -1,1 +1,1 @@
-shop.new_version!
+shop.new_asset_version!
