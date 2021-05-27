@@ -1,1 +1,1 @@
-now?
+shop.new_version!
