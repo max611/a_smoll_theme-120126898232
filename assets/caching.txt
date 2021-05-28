@@ -1,1 +1,1 @@
-shop.new_asset_version!
+am i bumped
