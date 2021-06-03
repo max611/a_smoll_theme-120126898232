@@ -1,1 +1,1 @@
-potato.js
+potato
