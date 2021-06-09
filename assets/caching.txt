@@ -1,1 +1,1 @@
-redis is down help
+redis is not down
