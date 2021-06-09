@@ -1,1 +1,1 @@
-core is slow
+core is 30 seconds slow
