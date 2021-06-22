@@ -1,0 +1,15 @@
+{
+    "sections": {
+      "main": {
+        "type": "newsletter",
+        "block_order": [
+          "title",
+          "summary",
+          "link"
+        ]
+      }
+    },
+    "order": [
+      "main"
+    ]
+  }
